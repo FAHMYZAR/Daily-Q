@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">Daily-Q</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="activity_login_textUsername_hint">Enter your key to this</string>
+    <string name="activity_login_GetKey_text">Contact</string>
+    <string name="daily_q_description">
+    <![CDATA[
+        Daily-Q membantu anak-anak dengan autisme dan hambatan non-verbal mengungkapkan keinginan dalam kehidupan sehari-hari. Aplikasi ini memberikan alat yang mudah digunakan bagi mereka yang kesulitan dalam komunikasi verbal, memungkinkan ekspresi keinginan secara lebih mudah dan efektif.
+
+        Dibangun dengan pendekatan sensitif, Daily-Q menciptakan lingkungan yang mendukung, mengurangi frustrasi, dan meningkatkan kemandirian dalam aktivitas sehari-hari, membuka peluang baru bagi mereka yang kesulitan berkomunikasi untuk meraih potensi terbaik mereka.
+    ]]>
+</string>
+    <string name="daily_q_usage_instructions">
+    1. Langkah pertama\n -Daftarkan nama kamu \n di tempat masukkan nama\n\n
+    2. Langkah kedua\n -Pasang Foto profile nya \n ( jangan lupa untuk memberi izin manager file)\n\n
+    3. Langkah ketiga\n -Sudah selesai..!! silahkan digunakan \n sesuai keinginann\n\n
+    Catatan: \n
+    - edit nama kamu di blok atas yang ada gambar pena \n
+    - ganti profilemu (apabila tidak muncul logo camera) \n tinggal pencet foto profilemu \n
+</string>
+
+
+</resources>
+
