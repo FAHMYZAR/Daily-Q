@@ -1,4 +1,3 @@
-```markdown
 # Daily-Q
 
 [![GitHub stars](https://img.shields.io/github/stars/FAHMYZAR/Daily-Q.svg)](https://github.com/FAHMYZAR/Daily-Q/stargazers)
