@@ -123,4 +123,3 @@ Halo! Saya **Fahmy**. Saat ini fokus mengembangkan aplikasi dan solusi teknologi
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/n-a-fahmi-728334315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 > *“Membantu sesama melalui teknologi adalah salah satu langkah kecil untuk menciptakan perubahan besar.”*
-```
