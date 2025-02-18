@@ -84,8 +84,6 @@ Beberapa tampilan inti dari **Daily-Q**:
 > - *Gambar kedua* memperlihatkan opsi ekspresi emosi: `Senang`, `Sedih`, `Marah`.  
 > - *Gambar ketiga* menunjukkan tampilan ketika anak memilih `Sedih`.
 
-*(Silakan ganti tautan gambar di atas dengan lokasi file screenshot Anda yang sebenarnya.)*
-
 ---
 
 ## Roadmap & Pengembangan Selanjutnya
