@@ -51,9 +51,9 @@ Melalui proyek ini, saya ingin berkontribusi dalam memberikan alat bantu yang mu
 
 ## Teknologi yang Digunakan
 
-- ** Android Studio / **
+- **Android Studio**
 - Bahasa Pemrograman **Java/Kotlin**
-- Library/Package SweetAlertDialog / TTS (Text To Speach)
+- Library/Package **SweetAlertDialog / TTS (Text To Speach)**
 
 ---
 
