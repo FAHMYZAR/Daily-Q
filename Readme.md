@@ -117,7 +117,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE). Silakan lihat berkas `L
 
 ## Tentang Saya
 
-Halo! Saya **Fahmy**. Saat ini fokus mengembangkan aplikasi dan solusi teknologi yang berdampak sosial, terutama untuk anak-anak berkebutuhan khusus. Saya percaya bahwa teknologi bisa menjadi jembatan untuk mempermudah aktivitas dan komunikasi mereka sehari-hari.
+Halo! Saya **Fahmy**. Saat ini fokus mengembangkan aplikasi dan solusi teknologi yang berdampak sosial, Saya percaya bahwa teknologi bisa menjadi jembatan untuk mempermudah aktivitas dan komunikasi sehari-hari.
 
 - **GitHub**: [FAHMYZAR](https://github.com/FAHMYZAR)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/n-a-fahmi-728334315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
